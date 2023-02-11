@@ -1,0 +1,15 @@
+# Project exclude paths
+/target/
+Thumbs.db*
+.DS_Store
+HELP.md
+.gradle
+build/
+target/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
